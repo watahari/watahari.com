@@ -44,10 +44,6 @@
           href: 'https://github.com/watahari',
         },
         {
-          text: 'Instagram - Cooking diary',
-          href: 'https://www.instagram.com/meshi_today/',
-        },
-        {
           text: 'Fitbit',
           href: 'https://www.fitbit.com/user/7TQJDG',
         },
