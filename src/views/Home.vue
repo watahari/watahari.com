@@ -28,5 +28,11 @@ export default {
   data: () => ({
     //
   }),
+  mounted () {
+    this.$gtag.pageview({
+      page_path: '/',
+      page_title: "Home"
+    })
+  },
 };
 </script>
