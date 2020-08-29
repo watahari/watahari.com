@@ -7,13 +7,13 @@ import VueGtag from "vue-gtag";
 Vue.config.productionTip = false
 
 Vue.use(VueGtag, {
-  config: {
-    id: "UA-176694381-1",
-    params: {
-      send_page_view: false
+  config: { id: "UA-176694381-1" },
+  pageTrackerTemplate(to) {
+    return {
+      page_path: to.path
     }
   }
-});
+}, router);
 
 new Vue({
   vuetify,
