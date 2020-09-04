@@ -68,8 +68,9 @@
           href: 'https://bookmeter.com/users/1913',
         },
         {
-          text: Visit history in Japan'(経県値)',
+          text: 'Visit history in Japan(経県値)',
           href: 'https://uub.jp/kkn/km_new.cgi?MAP=43453434424454424244445434434444241340441343004&NAM=watahari&CAT=%E7%94%9F%E6%B6%AF%E7%B5%8C%E7%9C%8C%E5%80%A4',
+        },
       ],
     }),
   }
