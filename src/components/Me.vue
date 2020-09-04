@@ -37,7 +37,7 @@
         },
         {
           text: 'Blog',
-          href: 'https://njmkktkg.blogspot.com/',
+          href: 'https://blog.watahari.com/',
         },
         {
           text: 'GitHub',
@@ -48,12 +48,28 @@
           href: 'https://www.instagram.com/meshi_today/',
         },
         {
+          text: 'Keybase',
+          href: 'https://keybase.io/watahari/',
+        },
+        {
+          text: 'Foursquare',
+          href: 'https://ja.foursquare.com/wata_hari',
+        },
+        {
           text: 'Fitbit',
           href: 'https://www.fitbit.com/user/7TQJDG',
         },
         {
+          text: 'myfitnesspal - Food diary',
+          href: 'https://www.myfitnesspal.com/food/diary/Watahari',
+        },
+        {
           text: 'Bookmeter',
           href: 'https://bookmeter.com/users/1913',
+        },
+        {
+          text: 'Visit history in Japan(経県値)',
+          href: 'https://uub.jp/kkn/km_new.cgi?MAP=43453434424454424244445434434444241340441343004&NAM=watahari&CAT=%E7%94%9F%E6%B6%AF%E7%B5%8C%E7%9C%8C%E5%80%A4',
         },
       ],
     }),
