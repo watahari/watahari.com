@@ -48,8 +48,20 @@
           href: 'https://www.instagram.com/meshi_today/',
         },
         {
+          text: 'Keybase',
+          href: 'https://keybase.io/watahari/',
+        },
+        {
+          text: 'Foursquare',
+          href: 'https://ja.foursquare.com/wata_hari',
+        },
+        {
           text: 'Fitbit',
           href: 'https://www.fitbit.com/user/7TQJDG',
+        },
+        {
+          text: 'myfitnesspal - Food diary',
+          href: 'https://www.myfitnesspal.com/food/diary/Watahari',
         },
         {
           text: 'Bookmeter',
