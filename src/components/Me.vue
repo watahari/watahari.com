@@ -37,7 +37,7 @@
         },
         {
           text: 'Blog',
-          href: 'https://njmkktkg.blogspot.com/',
+          href: 'https://blog.watahari.com/',
         },
         {
           text: 'GitHub',
