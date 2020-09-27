@@ -9,9 +9,21 @@
           It's me.
         </h2>
 
+        <v-row justify="center mb-2">
+          <a
+            v-for="(next, i) in main_items"
+            :key="i"
+            :href="next.href"
+            class="subheading mx-3"
+            target="_blank"
+          >
+            {{ next.text }}
+          </a>
+        </v-row>
+
         <v-row justify="center">
           <a
-            v-for="(next, i) in items"
+            v-for="(next, i) in sub_items"
             :key="i"
             :href="next.href"
             class="subheading mx-3"
@@ -30,7 +42,7 @@
     name: 'Me',
 
     data: () => ({
-      items: [
+      main_items: [
         {
           text: 'Twitter',
           href: 'https://twitter.com/wata_hari',
@@ -40,12 +52,14 @@
           href: 'https://blog.watahari.com/',
         },
         {
-          text: 'GitHub',
-          href: 'https://github.com/watahari',
-        },
-        {
           text: 'Instagram - Cooking diary',
           href: 'https://www.instagram.com/meshi_today/',
+        },
+      ],
+      sub_items: [
+        {
+          text: 'GitHub',
+          href: 'https://github.com/watahari',
         },
         {
           text: 'Keybase',
