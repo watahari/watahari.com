@@ -21,7 +21,7 @@
           </a>
         </v-row>
 
-        <v-row justify="center">
+        <v-row justify="center mb-2">
           <a
             v-for="(next, i) in sub_items"
             :key="i"
@@ -32,6 +32,19 @@
             {{ next.text }}
           </a>
         </v-row>
+
+        <v-row justify="center">
+          <a
+            v-for="(next, i) in key_items"
+            :key="i"
+            :href="next.href"
+            class="subheading mx-3"
+            target="_blank"
+          >
+            {{ next.text }}
+          </a>
+        </v-row>
+
       </v-col>
     </v-row>
   </v-container>
@@ -84,6 +97,12 @@
         {
           text: 'Visit history in Japan(経県値)',
           href: 'https://uub.jp/kkn/km_new.cgi?MAP=43453434424454424244445434434444241340441343004&NAM=watahari&CAT=%E7%94%9F%E6%B6%AF%E7%B5%8C%E7%9C%8C%E5%80%A4',
+        },
+      ],
+      key_items: [
+        {
+          text: 'id_rsa.pub',
+          href: 'https://github.com/watahari.keys',
         },
       ],
     }),
