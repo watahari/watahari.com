@@ -75,6 +75,10 @@
           href: 'https://github.com/watahari',
         },
         {
+          text: 'Podcast #まみむメモfm',
+          href: 'https://mamimumemo.online/',
+        },
+        {
           text: 'Keybase',
           href: 'https://keybase.io/watahari/',
         },
