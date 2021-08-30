@@ -79,6 +79,10 @@
           href: 'https://mamimumemo.online/',
         },
         {
+          text: 'Qiita',
+          href: 'https://qiita.com/watahari',
+        },
+        {
           text: 'Keybase',
           href: 'https://keybase.io/watahari/',
         },
