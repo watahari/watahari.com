@@ -87,10 +87,6 @@
           href: 'https://ja.foursquare.com/wata_hari',
         },
         {
-          text: 'myfitnesspal - Food diary',
-          href: 'https://www.myfitnesspal.com/food/diary/Watahari',
-        },
-        {
           text: 'Bookmeter',
           href: 'https://bookmeter.com/users/1913',
         },
