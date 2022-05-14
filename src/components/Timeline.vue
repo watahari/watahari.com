@@ -76,7 +76,7 @@
           color: 'red lighten-1',
           icon: 'mdi-run',
           text: 'Web engineer in Tokyo',
-          description: 'Front-end&batch (PHP), Settlement API (ApplePay etc.), Back-end (Information Retrieval, Apache Solr), and more...',
+          description: 'Front-end&batch (PHP), Settlement API (ApplePay etc.), Back-end (Information Retrieval, Apache Solr), SRE, and more...',
         },
         {
           color: 'red darken-4 lighten-1',
