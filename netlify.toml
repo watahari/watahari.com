@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/livedoor-blog-ranking-history/*"
+  to = "https://teal-sable-639a35.netlify.app/:splat"
+  status = 200
+  force = true
