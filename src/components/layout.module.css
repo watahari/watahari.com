@@ -13,21 +13,30 @@
   padding-left: 1rem;
 }
 .nav-link-item a[aria-current="page"] {
-  color: #42b983 !important;
+  color: #42b983;
 }
 .nav-link-text {
   color: black;
 }
 .main {
-  padding:2rem 15%;
+  padding: 2rem 15%;
+}
+@media screen and (max-width: 800px) {
+  .main {
+    padding: 2rem 0%;
+  }
 }
 .footer {
   padding: 1rem;
   text-align: center;
   background-color: #f5f5f5;
 }
-.footer-caption {
+.footer-copy-right {
   font-size: 80%;
+  margin: 1rem;
+}
+.footer-caption {
+  font-size: 60%;
 }
 a {
   color: black;
