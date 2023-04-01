@@ -7,6 +7,7 @@ const textStyles = {
   fontSize: "80%",
   textIndent: "1em",
   textAlign: "left",
+  padding: "0.8rem",
 }
 const imageStyles = {
   width: "30%",

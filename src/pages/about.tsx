@@ -14,4 +14,9 @@ const IndexPage: React.FC<PageProps> = () => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>watahari.com</title>
+export const Head: HeadFC = () => (
+  <>
+    <title>watahari.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes" />
+  </>
+)

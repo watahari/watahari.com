@@ -1,8 +1,11 @@
 import * as React from 'react'
+import {
+  wrapper
+} from './sake.module.css'
 
 const Sake = () => {
   return (
-    <div>
+    <div className={wrapper}>
       <h2>
         Drinking history
       </h2>

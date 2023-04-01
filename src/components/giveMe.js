@@ -1,5 +1,6 @@
 import * as React from "react"
 import {
+  wrapper,
   flexUl,
   flexLi
 } from './giveMe.module.css'
@@ -17,7 +18,7 @@ const links = [
 
 const GiveMe = () => {
   return (
-    <div>
+    <div className={wrapper}>
       <h2>
         Thank you for a lot!
       </h2>

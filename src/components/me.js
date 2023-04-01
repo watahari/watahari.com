@@ -1,5 +1,6 @@
 import * as React from "react"
 import {
+  wrapper,
   flexUl,
   flexLi
 } from './me.module.css'
@@ -58,7 +59,7 @@ const links_key = [
 
 const Me = () => {
   return (
-    <div>
+    <div className={wrapper}>
       <h2>
         It's me.
       </h2>
