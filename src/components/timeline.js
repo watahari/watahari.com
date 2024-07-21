@@ -55,6 +55,9 @@ export const data = [
 const Timeline = () => {
   return (
     <div>
+      <h2>
+        My history
+      </h2>
       <div>
         <Chrono
           items={data} 
