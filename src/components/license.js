@@ -59,6 +59,18 @@ const data = [
   },
   {
     title: {
+      longName: '第二種電気工事士',
+      name: '電気工事士',
+      shortName: '電工2種',
+    },
+    status: '合格',
+    acquisitionDate: '2024年8月',
+    type: '国家資格',
+    category: '経済産業省',
+    issuer: '東京都知事',
+  },
+  {
+    title: {
       longName: '乙種第1類危険物取扱者',
       name: '危険物取扱者',
       shortName: '乙1',
