@@ -63,8 +63,8 @@ const data = [
       name: '電気工事士',
       shortName: '電工2種',
     },
-    status: '合格',
-    acquisitionDate: '2024年8月',
+    status: '免状',
+    acquisitionDate: '2024年10月',
     type: '国家資格',
     category: '経済産業省',
     issuer: '東京都知事',
@@ -188,6 +188,18 @@ const data = [
     type: '民間検定',
     category: '民間',
     issuer: '一般社団法人全日本ピアノ指導者協会',
+  },
+  {
+    title: {
+      longName: '温泉ソムリエ',
+      name: '温泉ソムリエ',
+      shortName: '温泉ソムリエ',
+    },
+    status: '認定',
+    acquisitionDate: '2024年09月',
+    type: '民間検定',
+    category: '民間',
+    issuer: '温泉ソムリエ協会',
   },
   {
     title: {
