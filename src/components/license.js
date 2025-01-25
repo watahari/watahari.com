@@ -304,7 +304,7 @@ const data = [
       shortName: 'TOEIC',
     },
     status: '560点',
-    acquisitionDate: '2013年?月',
+    acquisitionDate: '2013年4月',
     type: '民間検定',
     category: '民間',
     issuer: 'Educational Testing Service',
