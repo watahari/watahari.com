@@ -167,6 +167,18 @@ const data = [
   },
   {
     title: {
+      longName: 'JSTQB認定テスト技術者資格 Foundation Level',
+      name: 'JSTQB Foundation Level',
+      shortName: 'JSTQB FL',
+    },
+    status: '合格',
+    acquisitionDate: '2025年05月',
+    type: '民間検定',
+    category: '民間',
+    issuer: 'JSTQB（Japan Software Testing Qualifications Board）',
+  },
+  {
+    title: {
       longName: '日本商工会議所簿記検定試験 3級',
       name: '日本商工会議所簿記検定',
       shortName: '日商簿記3級',
